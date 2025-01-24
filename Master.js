@@ -22,7 +22,7 @@ const urlData = [{
     },
     {
         name: "BD NET VPN | princes",
-        url: "https://raw.githubusercontent.com/panigbatanc/BDNET2023/refs/heads/main/JSONKYLE"
+        url: "https://raw.githubusercontent.com/panigbatanc/BDNET2023/refs/heads/main/JSONFASTDNS"
     },
     {
         name: "Omanova VPN | princes",
