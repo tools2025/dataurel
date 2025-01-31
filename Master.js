@@ -114,7 +114,7 @@ const urlData = [{
     },
     {
         name: "Steady Fast VPN | noyon",
-        url: "https://mnvaivainet.xyz/api/app?json=6ce47019ff8ee7433846"
+        url: "https://amrasobaivai.com/api/files/app?json=df77390343b6a7465fe6"
     },
     {
         name: "High Tech VPN | noyon",
@@ -122,7 +122,7 @@ const urlData = [{
     },
     {
         name: "Robust Tunnel VPN| noyon",
-        url: "https://amrasobaivai.com/uploads/json/d9eec18e08ebcc502621.json"
+        url: "https://amrasobaivai.com/api/files/app?json=67b45492dac37eab8189"
     },
     {
         name: "ICE VPN| noyon",
