@@ -1,10 +1,10 @@
 {
   "signature": {
-    "valid_signature": "F6:B5:25:A6:B7:22:AF:66:C6:1C:39:51:77:B3:DB:16:A3:FA:C8:B4:CD:56:E8:2C:7A:66:DA:99:E6:36:50:26"
+    "valid_signature": "D0:E9:27:D5:73:AD:43:B2:4B:29:88:33:E2:82:A7:E1:A6:54:07:3D:B7:16:5A:CC:29:FC:98:9C:4C:5B:66:EB"
   },
   "notification": {
     "message": "Tanda tangan aplikasi tidak valid! Hubungi pengembang untuk informasi lebih lanjut.",
-    "contact_dev": "developer@example.com",
+    "contact_dev": "https://t.me/XD_Tools",
     "exit_button": "Keluar"
   }
 }
