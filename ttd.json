@@ -4,7 +4,6 @@
   },
   "notification": {
     "message": "Tanda tangan aplikasi tidak valid! Hubungi pengembang untuk informasi lebih lanjut.",
-    "contact_dev": "developer@example.com",
     "exit_button": "Keluar"
   }
 }
