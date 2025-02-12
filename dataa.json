@@ -1,19 +1,13 @@
 {
-  "Panellogin": [
-    {
-      "username": "user1",
-      "userHWID": "Elner_1234567890abcdef",
-      "expiry_date": "2025-12-31"
-    },
-    {
-      "username": "user2",
-      "userHWID": "Elner_abcdef1234567890",
-      "expiry_date": "2025-06-30"
-    },
-    {
-      "username": "user3",
-      "userHWID": "j",
-      "expiry_date": "2025-03-11"
-    }
-  ]
+  "customer1": {
+    "Elmet_489F3B": "2025-12-31",
+    "Elmet_67A2C1": "2024-06-30"
+  },
+  "customer2": {
+    "Elmet_9B4D2E": "2023-12-31"
+  },
+  "premium_users": {
+    "Elmet_FF2233": "2030-01-01",
+    "Elmet_11AAFF": "2025-05-15"
+  }
 }
