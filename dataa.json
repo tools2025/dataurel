@@ -1,7 +1,8 @@
 {
-    "verified_uuids": [
-        "700fb7b3-7d2a-4050-9680-3e4c8e979e05",
-        "123e4567-e89b-12d3-a456-426614174000",
-        "d0a2d5f2-6b77-4f07-bdd8-3c05e9ea5f6b"
+    "verified_hwids": [
+        "Elner_700fb7b3-7d2a-4050-9680-3e4c8e979e05",
+        "Elner_123e4567-e89b-12d3-a456-426614174000",
+        "Elner_d0a2d5f2-6b77-4f07-bdd8-3c05e9ea5f6b",
+        "Elner_66314a90a5f431fb"
     ]
 }
